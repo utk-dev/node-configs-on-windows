@@ -1,4 +1,4 @@
-# node-on-windows
+# Node Configs on Windows
 My checklist for setting up Node on Windows
 
 Embrace multi-platformism! Given below is a list of instructions/tips that I use to setup a basic cross-platform development environment for Node projects.
